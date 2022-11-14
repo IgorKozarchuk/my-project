@@ -1,1 +1,2 @@
 text in file 1
+changes from task 7
