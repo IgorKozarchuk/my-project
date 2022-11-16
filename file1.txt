@@ -1,1 +1,2 @@
 text in file 1
+IDE integration test 1
